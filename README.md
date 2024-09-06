@@ -31,4 +31,4 @@ MONGO_URL="Your MongoDB Url"
 
 Check out the article related to this security module at [Hashnode][1]
 
-[1]: BlogLink            "HashNode"
+[1]: https://dharmjoshi.hashnode.dev/build-end-to-end-authentication-and-authorization-system-in-nodejs            "HashNode"
